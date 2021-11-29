@@ -13,4 +13,8 @@ path = "src/A_nakup.rs"
 name = "znamky"
 path = "src/B_znamky.rs"
 
+[[bin]]
+name = "dort"
+path = "src/C_dort.rs"
+
 [dependencies]
