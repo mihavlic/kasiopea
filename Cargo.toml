@@ -17,4 +17,8 @@ path = "src/B_znamky.rs"
 name = "dort"
 path = "src/C_dort.rs"
 
+[[bin]]
+name = "stehovani"
+path = "src/D_stehovani.rs"
+
 [dependencies]
